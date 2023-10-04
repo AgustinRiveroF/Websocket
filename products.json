@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Agua",
+    "description": "Villavicencio",
+    "price": "92.00",
+    "thumbnail": "",
+    "code": "4124",
+    "stock": "13123",
+    "status": true,
+    "category": 0
+  },
+  {
+    "id": 2,
+    "title": "Gaseosa",
+    "description": "Coca-Cola",
+    "price": "392.15",
+    "thumbnail": "",
+    "code": "80804",
+    "stock": "12313",
+    "status": true,
+    "category": 0
+  },
+  {
+    "id": 3,
+    "title": "Jugo",
+    "description": "Fresh",
+    "price": "242.65",
+    "thumbnail": "",
+    "code": "3313",
+    "stock": "1323",
+    "status": true,
+    "category": 0
+  },
+  {
+    "id": 4,
+    "title": "Yerba",
+    "description": "CBSE",
+    "price": "575.00",
+    "thumbnail": "",
+    "code": "8080",
+    "stock": "1234",
+    "status": true,
+    "category": 0
+  }
+]
